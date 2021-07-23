@@ -1,0 +1,2 @@
+# earthquake-
+Array and JavaScript 
